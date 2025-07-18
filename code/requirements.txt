@@ -1,0 +1,14 @@
+kafka-python
+minio
+pymongo
+opencv-python
+numpy
+deepface
+fer
+tensorflow
+tf-keras
+pyspark
+pandas
+moviepy==1.0.3
+pyarrow>=1.0.0
+pyspark==3.4.1
